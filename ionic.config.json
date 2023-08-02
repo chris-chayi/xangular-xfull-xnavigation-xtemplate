@@ -1,0 +1,7 @@
+{
+  "name": "fullNavigationTemplate",
+  "integrations": {
+    "capacitor": {}
+  },
+  "type": "angular"
+}
